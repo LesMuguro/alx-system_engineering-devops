@@ -1,1 +1,1 @@
-add a file to the PATH and have it be looked at last by the shell
+a script that counts the number of directories in the PATH
