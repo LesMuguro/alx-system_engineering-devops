@@ -1,1 +1,1 @@
-a script that prints hello user, where user is the current Linux user
+add a file to the PATH and have it be looked at last by the shell
